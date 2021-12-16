@@ -1,0 +1,7 @@
+C:\Users\Gleb\source\repos\ZD3.10\ZD3.10_EX3\bin\Debug\ZD3.10_EX3.exe.config
+C:\Users\Gleb\source\repos\ZD3.10\ZD3.10_EX3\bin\Debug\ZD3.10_EX3.exe
+C:\Users\Gleb\source\repos\ZD3.10\ZD3.10_EX3\bin\Debug\ZD3.10_EX3.pdb
+C:\Users\Gleb\source\repos\ZD3.10\ZD3.10_EX3\obj\Debug\ZD3.10_EX3.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\ZD3.10\ZD3.10_EX3\obj\Debug\ZD3.10_EX3.exe
+C:\Users\Gleb\source\repos\ZD3.10\ZD3.10_EX3\obj\Debug\ZD3.10_EX3.pdb
+C:\Users\Gleb\source\repos\ZD3.10\ZD3.10_EX3\obj\Debug\ZD3.10_EX3.csproj.AssemblyReference.cache
